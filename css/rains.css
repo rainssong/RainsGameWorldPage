@@ -1,0 +1,59 @@
+body {
+	padding-top: 80px;
+}
+/*body {background-color: #444444}*/
+/*body {background: url(/img/bg.png) repeat 0 0;}*/
+body, button, input, select, textarea, h1, h2, h3, h4, h5, h6 {
+	font-family: Microsoft YaHei, '宋体', Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
+}
+
+.btn
+{
+	border-width:2px;
+	border-color: #375a7f;
+}
+
+.caption {
+ height: 220px;
+ overflow-y: auto ;
+}
+
+.center {
+  width: auto;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.height380{height:380px;}
+
+.gameDiv>a>img{
+	width:100%;
+	height: auto;
+	margin-bottom:10px
+}
+
+.gameDiv>img{
+	width:100%;
+	height: auto;
+	margin-bottom:10px
+}
+
+.gameDiv{
+	text-align: center;
+	/*height: 300px;*/
+	overflow: hidden;
+}
+
+.carousel-inner>.item>img{width:100%;}
+
+.gray { 
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    
+    filter: grayscale(100%);
+	
+    filter: gray;
+}
