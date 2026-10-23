@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">GetSrt 字幕工具产品展示图</title>
+  <desc id="desc">音视频文件上传后生成带时间码的 SRT 字幕文件。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e8f1f3"/><stop offset="1" stop-color="#edf0e7"/></linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#45a99a"/><stop offset="1" stop-color="#6398c5"/></linearGradient>
+    <filter id="shadow" x="-.1" y="-.1" width="1.2" height="1.25"><feDropShadow dx="0" dy="22" stdDeviation="24" flood-color="#294852" flood-opacity=".13"/></filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="1087" cy="113" r="174" fill="#c5e3d9" opacity=".48"/><circle cx="90" cy="820" r="150" fill="#d8d5b6" opacity=".46"/>
+  <g filter="url(#shadow)">
+    <rect x="62" y="55" width="1076" height="790" rx="30" fill="#fffefa"/>
+    <path d="M92 55h1016a30 30 0 0 1 30 30v54H62V85a30 30 0 0 1 30-30Z" fill="#f4f7f3"/>
+    <circle cx="98" cy="94" r="8" fill="#e6a28c"/><circle cx="126" cy="94" r="8" fill="#e7c67c"/><circle cx="154" cy="94" r="8" fill="#9ac6ad"/>
+    <rect x="211" y="75" width="429" height="37" rx="18" fill="#e7ebe6"/>
+    <text x="240" y="99" fill="#7d8b82" font-size="15" font-family="Arial,sans-serif">srt.rainssong.com</text>
+    <rect x="972" y="76" width="129" height="38" rx="19" fill="#edf4ef"/>
+    <text x="1005" y="101" fill="#2c7466" font-size="13" font-family="'Microsoft YaHei',sans-serif">按分钟计费</text>
+    <text x="102" y="200" fill="#173848" font-size="37" font-weight="700" font-family="'Microsoft YaHei',sans-serif">上传音视频，一键生成 SRT 字幕</text>
+    <text x="105" y="236" fill="#728178" font-size="16" font-family="'Microsoft YaHei',sans-serif">无需订阅。选择文件，下载字幕，继续你的剪辑。</text>
+    <rect x="100" y="280" width="1000" height="225" rx="23" fill="#f5f8f4" stroke="#dce8df" stroke-width="2" stroke-dasharray="10 8"/>
+    <circle cx="600" cy="355" r="39" fill="#e0f0e7"/>
+    <path d="M600 333v29m-11-11 11-11 11 11m-25 15h28" fill="none" stroke="#21816c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="600" y="429" fill="#28474a" font-size="18" font-weight="700" text-anchor="middle" font-family="'Microsoft YaHei',sans-serif">拖入视频或音频文件，开始生成字幕</text>
+    <text x="600" y="460" fill="#8b9790" font-size="13" text-anchor="middle" font-family="Arial,sans-serif">MP4 · MOV · MP3 · WAV</text>
+    <rect x="512" y="475" width="176" height="44" rx="22" fill="#117b68"/>
+    <text x="550" y="503" fill="#fff" font-size="14" font-weight="700" font-family="'Microsoft YaHei',sans-serif">选择本地文件</text>
+    <rect x="100" y="548" width="1000" height="232" rx="21" fill="#fcfdf9" stroke="#e5e9e2"/>
+    <rect x="126" y="572" width="390" height="182" rx="14" fill="#1d3442"/>
+    <rect x="143" y="590" width="356" height="119" rx="9" fill="#294859"/>
+    <circle cx="319" cy="649" r="27" fill="#ffffff" opacity=".16"/><path d="m313 634 21 15-21 15Z" fill="#fff"/>
+    <text x="148" y="735" fill="#d0e0df" font-size="12" font-family="Arial,sans-serif">interview-01.mp4</text>
+    <text x="467" y="735" fill="#9cb2b4" font-size="12" text-anchor="end" font-family="Arial,sans-serif">01:34</text>
+    <path d="M544 596h520" stroke="#e5e9e2"/>
+    <circle cx="565" cy="625" r="15" fill="#e4f1e9"/>
+    <path d="M557 625h16m-8-8v16" stroke="#27806c" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="591" y="631" fill="#294549" font-size="14" font-weight="700" font-family="'Microsoft YaHei',sans-serif">生成的字幕 · interview-01.srt</text>
+    <text x="1039" y="631" fill="#378373" font-size="12" font-family="Arial,sans-serif">SRT</text>
+    <path d="M558 662h8v-8h6v16h6v-22h6v27h6v-13h7v8h6v-21h7v26h6v-15h7v7h7v-19h7v27h7v-12h7v6h7v-18h6v27h7v-10h7v6h7v-21h7v26h7v-15h7v6h7v-19h7v27h7v-12h7v5h7v-22h6v29h7v-16h7v7h8" stroke="url(#wave)" stroke-width="4" stroke-linecap="round" fill="none"/>
+    <rect x="558" y="700" width="314" height="38" rx="9" fill="#f2f7f2"/>
+    <text x="574" y="716" fill="#728078" font-size="10" font-family="Consolas,monospace">00:00:01,200 → 00:00:03,850</text>
+    <text x="574" y="732" fill="#324e4b" font-size="12" font-family="'Microsoft YaHei',sans-serif">第一句字幕，带有准确时间码。</text>
+    <rect x="888" y="700" width="172" height="38" rx="19" fill="#e2f2e8"/><text x="930" y="724" fill="#207563" font-size="13" font-weight="700" font-family="'Microsoft YaHei',sans-serif">下载 SRT</text>
+  </g>
+</svg>

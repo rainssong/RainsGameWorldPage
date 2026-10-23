@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Markdown2长微博产品展示图</title>
+  <desc id="desc">Markdown 编辑器与长微博预览并排展示，并突出主题切换和导出长图功能。</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e2eee8"/><stop offset="1" stop-color="#f8eee0"/></linearGradient>
+    <linearGradient id="cover" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d9ede5"/><stop offset="1" stop-color="#bddbd1"/></linearGradient>
+    <filter id="shadow" x="-.1" y="-.1" width="1.2" height="1.25"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#183b35" flood-opacity=".13"/></filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#paper)"/>
+  <circle cx="1080" cy="120" r="190" fill="#f7d8b2" opacity=".44"/>
+  <circle cx="95" cy="820" r="175" fill="#b4d8ce" opacity=".5"/>
+  <g filter="url(#shadow)">
+    <rect x="62" y="54" width="1076" height="792" rx="30" fill="#fffefa"/>
+    <path d="M92 54h1016a30 30 0 0 1 30 30v48H62V84a30 30 0 0 1 30-30Z" fill="#f3f4ed"/>
+    <circle cx="98" cy="92" r="8" fill="#e6a28c"/><circle cx="126" cy="92" r="8" fill="#e7c67c"/><circle cx="154" cy="92" r="8" fill="#9ac6ad"/>
+    <rect x="211" y="73" width="448" height="37" rx="18" fill="#e7ebe4"/>
+    <text x="240" y="97" fill="#7d8b82" font-size="16" font-family="Arial,sans-serif">markdown2long-weibo</text>
+    <rect x="62" y="132" width="1076" height="92" fill="#fffefa"/>
+    <rect x="94" y="155" width="46" height="46" rx="15" fill="#117b68"/>
+    <path d="M105 187v-20h6l6 9 6-9h6v20h-6v-10l-6 8-6-8v10Z" fill="#fff"/>
+    <text x="157" y="177" fill="#14344a" font-size="25" font-weight="700" font-family="'Microsoft YaHei',sans-serif">Markdown2长微博</text>
+    <text x="158" y="199" fill="#77847d" font-size="14" font-family="Arial,sans-serif">写作 · 预览 · 导出</text>
+    <rect x="792" y="155" width="136" height="44" rx="22" fill="#f1f4ed"/>
+    <circle cx="818" cy="177" r="9" fill="#d4a960"/><path d="M818 164v-4m0 34v-4m13-13h4m-34 0h4m22-9 3-3m-24 24 3-3m18 0 3 3m-24-24 3 3" stroke="#a9813e" stroke-width="2" stroke-linecap="round"/>
+    <text x="839" y="182" fill="#45594e" font-size="14" font-family="'Microsoft YaHei',sans-serif">切换主题</text>
+    <rect x="944" y="155" width="160" height="44" rx="22" fill="#0d7964"/>
+    <path d="M969 171v13m-5-5 5 5 5-5m-10-10h10" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="987" y="182" fill="#fff" font-size="14" font-weight="700" font-family="'Microsoft YaHei',sans-serif">导出长图</text>
+    <path d="M62 224h1076" stroke="#e7e9e1"/>
+    <text x="98" y="264" fill="#7a887f" font-size="13" font-weight="700" letter-spacing="2" font-family="Arial,sans-serif">MARKDOWN</text>
+    <text x="606" y="264" fill="#7a887f" font-size="13" font-weight="700" letter-spacing="2" font-family="Arial,sans-serif">LONG POST PREVIEW</text>
+    <rect x="92" y="282" width="455" height="510" rx="18" fill="#f5f7f1" stroke="#e3e8df"/>
+    <rect x="112" y="303" width="415" height="50" rx="10" fill="#fff"/>
+    <circle cx="137" cy="328" r="7" fill="#96bfb2"/><circle cx="160" cy="328" r="7" fill="#d8c795"/><circle cx="183" cy="328" r="7" fill="#e6b7a4"/>
+    <path d="M118 388h40m-40 49h42m-42 49h28m-28 49h42m-42 49h18m-18 49h45m-45 49h28" stroke="#d4ddd3" stroke-width="2"/>
+    <text x="177" y="393" fill="#c27b50" font-size="17" font-family="Consolas,monospace"># 一段值得保存的想法</text>
+    <text x="177" y="438" fill="#64756d" font-size="15" font-family="Consolas,monospace">把灵感写下来，</text>
+    <text x="177" y="463" fill="#64756d" font-size="15" font-family="Consolas,monospace">再慢慢整理成自己的故事。</text>
+    <text x="177" y="512" fill="#6b9c8d" font-size="14" font-family="Consolas,monospace">## 从草稿到长图</text>
+    <text x="177" y="558" fill="#87938c" font-size="14" font-family="Consolas,monospace">- 所见即所得预览</text>
+    <text x="177" y="585" fill="#87938c" font-size="14" font-family="Consolas,monospace">- 一键导出分享</text>
+    <text x="177" y="612" fill="#87938c" font-size="14" font-family="Consolas,monospace">- 主题随心切换</text>
+    <rect x="177" y="658" width="258" height="12" rx="6" fill="#e2e8df"/><rect x="177" y="686" width="217" height="12" rx="6" fill="#e2e8df"/><rect x="177" y="714" width="238" height="12" rx="6" fill="#e2e8df"/>
+    <rect x="580" y="282" width="524" height="510" rx="18" fill="#e7eee8"/>
+    <rect x="666" y="301" width="354" height="470" rx="10" fill="#fffefa" stroke="#e2e6df"/>
+    <rect x="688" y="323" width="310" height="124" rx="7" fill="url(#cover)"/>
+    <circle cx="935" cy="365" r="34" fill="#f3c78e" opacity=".9"/><path d="M706 425 787 356l63 58 47-39 80 72H706Z" fill="#739b88" opacity=".78"/>
+    <text x="706" y="482" fill="#173d3a" font-size="26" font-weight="700" font-family="'Microsoft YaHei',sans-serif">把想法，写成长图</text>
+    <text x="706" y="512" fill="#849087" font-size="13" font-family="Arial,sans-serif">NOTES ON MAKING</text>
+    <path d="M706 541h264m-264 16h280m-280 16h241" stroke="#d9dfd8" stroke-width="5" stroke-linecap="round"/>
+    <rect x="706" y="605" width="276" height="49" rx="8" fill="#edf4ef"/>
+    <text x="724" y="635" fill="#387967" font-size="14" font-family="'Microsoft YaHei',sans-serif">从一段 Markdown，排成一张长图。</text>
+    <path d="M706 680h249m-249 16h269m-269 16h194" stroke="#d9dfd8" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>

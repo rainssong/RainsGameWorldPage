@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">图片拼裁工具产品展示图</title>
+  <desc id="desc">拼裁工具中的多图画布、裁切框、方向切换和导出操作。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9f0ee"/><stop offset="1" stop-color="#e0ebf1"/></linearGradient>
+    <linearGradient id="shotA" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f2c28f"/><stop offset="1" stop-color="#df9275"/></linearGradient>
+    <linearGradient id="shotB" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#a6d5d1"/><stop offset="1" stop-color="#6d9b9c"/></linearGradient>
+    <linearGradient id="shotC" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#acb9d7"/><stop offset="1" stop-color="#6f729d"/></linearGradient>
+    <filter id="shadow" x="-.1" y="-.1" width="1.2" height="1.25"><feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#314c57" flood-opacity=".14"/></filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="113" cy="115" r="118" fill="#c4ded5" opacity=".56"/><circle cx="1090" cy="800" r="165" fill="#c8d3e5" opacity=".6"/>
+  <g filter="url(#shadow)">
+    <rect x="61" y="53" width="1078" height="794" rx="28" fill="#fffefa"/>
+    <path d="M89 53h1022a28 28 0 0 1 28 28v53H61V81a28 28 0 0 1 28-28Z" fill="#f5f6f2"/>
+    <circle cx="97" cy="91" r="8" fill="#e7aa92"/><circle cx="125" cy="91" r="8" fill="#e8cf88"/><circle cx="153" cy="91" r="8" fill="#9fc8b4"/>
+    <rect x="220" y="72" width="423" height="37" rx="18" fill="#e9ede8"/>
+    <text x="246" y="96" fill="#75827c" font-size="15" font-family="Arial,sans-serif">rainssong.github.io / ImageSplitAndMerge</text>
+    <text x="96" y="183" fill="#173448" font-size="30" font-weight="700" font-family="'Microsoft YaHei',sans-serif">图片拼裁工具</text>
+    <text x="98" y="212" fill="#77867f" font-size="15" font-family="'Microsoft YaHei',sans-serif">选多张图片，点击任意位置裁切；拖动调整后合并导出。</text>
+    <rect x="820" y="163" width="133" height="44" rx="22" fill="#f0f4ef"/>
+    <text x="848" y="191" fill="#407c6c" font-size="14" font-family="'Microsoft YaHei',sans-serif">单独导出</text>
+    <rect x="967" y="163" width="137" height="44" rx="22" fill="#117b68"/>
+    <text x="996" y="191" fill="#fff" font-size="14" font-weight="700" font-family="'Microsoft YaHei',sans-serif">合并导出</text>
+    <path d="M61 235h1078" stroke="#e8eae4"/>
+    <rect x="94" y="264" width="240" height="518" rx="18" fill="#f6f8f4" stroke="#e6eae2"/>
+    <text x="120" y="302" fill="#314a4c" font-size="16" font-weight="700" font-family="'Microsoft YaHei',sans-serif">图片列表</text>
+    <rect x="116" y="322" width="196" height="95" rx="11" fill="url(#shotA)"/>
+    <path d="M116 385 176 342l43 31 29-21 64 49v16H116Z" fill="#72586a" opacity=".69"/>
+    <circle cx="275" cy="349" r="12" fill="#ffdfb2"/>
+    <text x="119" y="441" fill="#78877f" font-size="12" font-family="Arial,sans-serif">photo_01.jpg</text>
+    <rect x="116" y="461" width="196" height="95" rx="11" fill="url(#shotB)"/>
+    <path d="M116 523 169 477l48 38 35-28 60 49v20H116Z" fill="#3c696c" opacity=".72"/>
+    <circle cx="274" cy="487" r="12" fill="#fff0c5"/>
+    <text x="119" y="580" fill="#78877f" font-size="12" font-family="Arial,sans-serif">photo_02.jpg</text>
+    <rect x="116" y="600" width="196" height="95" rx="11" fill="url(#shotC)"/>
+    <path d="M116 673 168 627l43 36 41-34 60 49v17H116Z" fill="#49496f" opacity=".68"/>
+    <circle cx="273" cy="626" r="12" fill="#f8ddbd"/>
+    <text x="119" y="719" fill="#78877f" font-size="12" font-family="Arial,sans-serif">photo_03.jpg</text>
+    <rect x="361" y="264" width="744" height="518" rx="18" fill="#edf2ee" stroke="#e2e8e1"/>
+    <rect x="389" y="289" width="688" height="50" rx="12" fill="#fffefa"/>
+    <circle cx="414" cy="314" r="7" fill="#8ab6a8"/><text x="434" y="319" fill="#65766d" font-size="13" font-family="'Microsoft YaHei',sans-serif">3 张图片已添加</text>
+    <rect x="774" y="299" width="132" height="31" rx="15" fill="#eff4ef"/>
+    <text x="793" y="320" fill="#50776b" font-size="12" font-family="'Microsoft YaHei',sans-serif">切换为横向</text>
+    <rect x="924" y="299" width="131" height="31" rx="15" fill="#eff4ef"/>
+    <text x="953" y="320" fill="#50776b" font-size="12" font-family="'Microsoft YaHei',sans-serif">拉伸统一尺寸</text>
+    <rect x="389" y="362" width="688" height="306" rx="12" fill="#d8dfdb"/>
+    <rect x="410" y="384" width="214" height="261" rx="7" fill="url(#shotA)"/>
+    <path d="M410 558 486 464l52 41 38-30 48 39v131H410Z" fill="#775b6b" opacity=".76"/><circle cx="580" cy="427" r="21" fill="#ffe2aa"/>
+    <rect x="635" y="384" width="214" height="261" rx="7" fill="url(#shotB)"/>
+    <path d="M635 548 705 453l64 52 35-31 45 42v129H635Z" fill="#386c70" opacity=".78"/><circle cx="801" cy="426" r="20" fill="#f9e3ae"/>
+    <rect x="860" y="384" width="196" height="261" rx="7" fill="url(#shotC)"/>
+    <path d="M860 555 920 472l53 48 32-31 51 45v111H860Z" fill="#4b4f78" opacity=".76"/><circle cx="1008" cy="427" r="20" fill="#f3d6b6"/>
+    <rect x="622" y="374" width="14" height="282" rx="7" fill="#fff" opacity=".85"/>
+    <rect x="851" y="374" width="13" height="282" rx="6" fill="#fff" opacity=".85"/>
+    <path d="M622 387v-12h12m-12 12h-12m243 0v-12h-12m12 12h12m-243 257v12h12m-12-12h-12m243 0v12h-12m12-12h12" stroke="#0d806b" stroke-width="4" stroke-linecap="round"/>
+    <rect x="389" y="690" width="688" height="62" rx="13" fill="#fffefa"/>
+    <text x="415" y="718" fill="#718078" font-size="13" font-family="'Microsoft YaHei',sans-serif">点击画布裁切</text>
+    <text x="415" y="738" fill="#a0aaa2" font-size="12" font-family="'Microsoft YaHei',sans-serif">拖动图片调整顺序 · 删除多余部分</text>
+    <rect x="837" y="705" width="106" height="32" rx="16" fill="#f1f5f0"/><text x="858" y="726" fill="#52796d" font-size="12" font-family="'Microsoft YaHei',sans-serif">纵向拼接</text>
+    <rect x="953" y="705" width="100" height="32" rx="16" fill="#e2f1ea"/><text x="975" y="726" fill="#177765" font-size="12" font-family="'Microsoft YaHei',sans-serif">预览</text>
+  </g>
+</svg>

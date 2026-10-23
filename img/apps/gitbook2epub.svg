@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">GitBook2EPUB 产品展示图</title>
+  <desc id="desc">GitBook 章节目录经过转换后排成带目录的 EPUB 电子书。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f3eee1"/><stop offset="1" stop-color="#e3eee8"/></linearGradient>
+    <linearGradient id="book" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#264b4b"/><stop offset="1" stop-color="#102f39"/></linearGradient>
+    <filter id="shadow" x="-.2" y="-.15" width="1.4" height="1.4"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#203b39" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="1076" cy="131" r="150" fill="#f1cf9c" opacity=".45"/><circle cx="85" cy="814" r="164" fill="#b9d8cc" opacity=".58"/>
+  <text x="75" y="91" fill="#698078" font-size="14" font-weight="700" letter-spacing="3" font-family="Arial,sans-serif">GITBOOK TO EPUB</text>
+  <text x="75" y="151" fill="#173848" font-size="36" font-weight="700" font-family="Arial,sans-serif">Turn a book project into an e-book.</text>
+  <text x="78" y="187" fill="#718078" font-size="16" font-family="'Microsoft YaHei',sans-serif">保留章节层级 · 自动生成目录 · 输出标准 EPUB</text>
+  <g filter="url(#shadow)">
+    <rect x="74" y="240" width="594" height="548" rx="26" fill="#fffefa"/>
+    <path d="M100 240h542a26 26 0 0 1 26 26v52H74v-52a26 26 0 0 1 26-26Z" fill="#f3f5ef"/>
+    <circle cx="112" cy="279" r="7" fill="#e7aa92"/><circle cx="138" cy="279" r="7" fill="#e8cf88"/><circle cx="164" cy="279" r="7" fill="#9fc8b4"/>
+    <text x="202" y="284" fill="#728078" font-size="14" font-family="Arial,sans-serif">GitBook2Epub · conversion</text>
+    <text x="111" y="359" fill="#24464c" font-size="19" font-weight="700" font-family="'Microsoft YaHei',sans-serif">转换设置</text>
+    <rect x="111" y="381" width="519" height="72" rx="14" fill="#f6f8f3" stroke="#e5e9e1"/>
+    <circle cx="144" cy="417" r="19" fill="#e4efe7"/><path d="M136 413h16m-16 7h16m-16 7h11" stroke="#247b68" stroke-width="2" stroke-linecap="round"/>
+    <text x="178" y="410" fill="#718078" font-size="12" font-family="Arial,sans-serif">GITBOOK SOURCE</text>
+    <text x="178" y="433" fill="#344b4d" font-size="15" font-family="Consolas,monospace">/my-book/SUMMARY.md</text>
+    <rect x="111" y="469" width="519" height="184" rx="14" fill="#fafbf7" stroke="#e8ebe4"/>
+    <text x="136" y="502" fill="#56776e" font-size="13" font-weight="700" font-family="Arial,sans-serif">TABLE OF CONTENTS</text>
+    <path d="M143 529v98" stroke="#cbd9d0" stroke-width="2"/>
+    <circle cx="143" cy="538" r="5" fill="#21806b"/><text x="162" y="543" fill="#344b4d" font-size="14" font-family="'Microsoft YaHei',sans-serif">README · 封面与简介</text>
+    <circle cx="143" cy="568" r="4" fill="#a1b6aa"/><text x="162" y="573" fill="#70817a" font-size="13" font-family="'Microsoft YaHei',sans-serif">第一章 · 开始之前</text>
+    <circle cx="143" cy="597" r="4" fill="#a1b6aa"/><text x="162" y="602" fill="#70817a" font-size="13" font-family="'Microsoft YaHei',sans-serif">第二章 · 整理内容</text>
+    <circle cx="143" cy="626" r="4" fill="#a1b6aa"/><text x="162" y="631" fill="#70817a" font-size="13" font-family="'Microsoft YaHei',sans-serif">第三章 · 发布与分享</text>
+    <rect x="111" y="673" width="519" height="73" rx="14" fill="#edf5ef"/>
+    <path d="M140 710h34m-11-11 11 11-11 11" fill="none" stroke="#167864" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="194" y="704" fill="#688178" font-size="12" font-family="Arial,sans-serif">OUTPUT FILE</text>
+    <text x="194" y="729" fill="#214b46" font-size="15" font-weight="700" font-family="Consolas,monospace">my-book.epub</text>
+    <rect x="525" y="691" width="84" height="38" rx="19" fill="#147965"/>
+    <text x="547" y="715" fill="#fff" font-size="13" font-weight="700" font-family="'Microsoft YaHei',sans-serif">开始转换</text>
+  </g>
+  <path d="M711 513h96m-18-18 18 18-18 18" stroke="#4a8d7e" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <g filter="url(#shadow)">
+    <path d="M880 302c-41-26-91-26-142-6v402c51-20 101-20 142 6 42-26 92-26 143-6V296c-51-20-101-20-143 6Z" fill="#fdfbf4" stroke="#d4cbb9" stroke-width="3"/>
+    <path d="M880 302c-41-26-91-26-142-6v402c51-20 101-20 142 6Z" fill="#fffefa"/>
+    <path d="M880 302v402m5-402c42-26 92-26 143-6v402c-51-20-101-20-143 6" fill="#f8f4e9" stroke="#d4cbb9" stroke-width="2"/>
+    <text x="783" y="376" fill="#607b70" font-size="11" letter-spacing="2" font-family="Arial,sans-serif">A SMALL FIELD GUIDE</text>
+    <path d="M782 404h184" stroke="#d9d1bf"/>
+    <text x="782" y="456" fill="#1d4141" font-size="24" font-weight="700" font-family="'Microsoft YaHei',sans-serif">写作的</text>
+    <text x="782" y="489" fill="#1d4141" font-size="24" font-weight="700" font-family="'Microsoft YaHei',sans-serif">小小方法</text>
+    <circle cx="836" cy="580" r="42" fill="#cbded1"/><path d="M803 598c22-26 47-33 77-3" fill="none" stroke="#5c8a78" stroke-width="7" stroke-linecap="round"/><path d="M836 555v49" stroke="#5c8a78" stroke-width="4"/>
+    <text x="781" y="655" fill="#7f8b7e" font-size="12" font-family="'Microsoft YaHei',sans-serif">作者 · Rainssong</text>
+    <rect x="933" y="742" width="154" height="38" rx="19" fill="#244d4a"/><text x="967" y="767" fill="#ecf5eb" font-size="13" font-weight="700" letter-spacing="1" font-family="Arial,sans-serif">EPUB READY</text>
+  </g>
+</svg>
